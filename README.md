@@ -1,5 +1,4 @@
 # Compensation-Benchmarking-Analysis
-# Compensation Benchmarking & Pay Equity Analysis
 
 An analysis of 6,599 data science salary records in Python to understand how pay varies by role, experience, company size, and work model, and how many roles fall below the market median.
 
